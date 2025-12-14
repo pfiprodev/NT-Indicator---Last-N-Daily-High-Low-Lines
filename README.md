@@ -1,4 +1,3 @@
-# NT-Indicator---Last-N-Daily-High-Low-Lines
 # Last N Daily High/Low Lines (NinjaTrader 8)
 
 A free NinjaTrader 8 indicator that draws horizontal levels at the **daily high and low** for each of the **most recent N trading sessions**, and keeps them visible during live trading.
